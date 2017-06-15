@@ -35,3 +35,10 @@ my little bot on fanfou
 ![](https://raw.githubusercontent.com/caspartse/mylittlebot/master/screenshots/wqbot.png)
 
 (source code coming soon)
+
+
+# External Resources
+
+* [fanfou-py](https://github.com/akgnah/fanfou-py) - OAuth of Fanfou.
+* [Python-SmartisanNotes](https://github.com/caspartse/Python-SmartisanNotes) Python API Wrapper for http://note.t.tt Service.
+* [Microsoft Computer Vision](https://westus.dev.cognitive.microsoft.com/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fc) - Optical Character Recognition (OCR).
