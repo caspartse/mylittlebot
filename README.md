@@ -21,7 +21,7 @@ my little bot on fanfou
 
 ### oneobot
 
-[@ONE一个](http://fanfou.com/onebot) - 「ONE · 一个」器人。
+[@ONE一个](http://fanfou.com/onebot) - 「ONE · 一个」机器人。
 
 ![](https://raw.githubusercontent.com/caspartse/mylittlebot/master/screenshots/onebot.png)
 
@@ -30,7 +30,7 @@ my little bot on fanfou
 (source code coming soon)
 
 ### wqbot
-[@湾区日报](http://fanfou.com/wqbot) - 湾区日报器人。
+[@湾区日报](http://fanfou.com/wqbot) - 湾区日报机器人。
 
 ![](https://raw.githubusercontent.com/caspartse/mylittlebot/master/screenshots/wqbot.png)
 
