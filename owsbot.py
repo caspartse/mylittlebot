@@ -14,7 +14,7 @@ class OWS(object):
     def calendar(self):
         today = datetime.date.today()
         imgUrl = 'http://img.owspace.com/Public/uploads/Download/%d/%02d%02d.jpg' % (
-            today.year, today.month, today.day - 1)
+            today.year, today.month, today.day)
         try:
             desc = self.ocr(imgUrl)
         except:
