@@ -1,2 +1,6 @@
 # mylittlebot
-my little bot @fanfou
+my little bot on fanfou
+
+### solibot
+
+![solibot](http://fanfou.com/solibot)
